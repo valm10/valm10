@@ -10,6 +10,12 @@
 
 ###
 
+###
+
+<img align="right" height="150" src="https://imgflip.com/gif/a4kjjf"  />
+
+###
+
 - 🔭 I’m currently working on [GymLog – a workout tracker app](https://github.com/valm10/gymlog)
 
 - 👯 I’m looking to collaborate on **Open-source projects**
